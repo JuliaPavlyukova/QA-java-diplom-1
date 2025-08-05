@@ -1,4 +1,4 @@
-# QA-java-diplom-2
+# QA-java-diplom-1
 Автоматизация тестов для учебного сайта Stellar Burgers:  https://stellarburgers.nomoreparties.site/
 
 **Задание 1. Юнит-тесты**
